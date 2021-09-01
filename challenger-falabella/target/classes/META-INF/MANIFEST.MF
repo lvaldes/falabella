@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: lvaldes
+Build-Jdk: 15.0.2
+Implementation-Title: Challenger-Falabella
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.javaguides.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Challenger-Falabella
+Created-By: Maven Integration for Eclipse
+

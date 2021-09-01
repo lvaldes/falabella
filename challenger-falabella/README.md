@@ -8,5 +8,5 @@ Repository :  For encapsulating storage DB h2
 
 ### Instalación 🔧
 
-git remote add origin https://github.com/lvaldes/falabella.git
+git remote add origin https://github.com/lvaldes/falabella.git y
 Tener instalado jdk 15

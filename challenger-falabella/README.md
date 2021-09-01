@@ -12,8 +12,12 @@ Entity :  Estructura de Product
 
 Repository :  Para el encapsulamiento de data y Base datos DB h2
 
-### Instalación 🔧
+### Instalación
 
 git remote add origin https://github.com/lvaldes/falabella.git
 
 Tener instalado jdk 15
+
+### Test
+
+Para las pruebas JUNIT

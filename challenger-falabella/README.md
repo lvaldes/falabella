@@ -1,13 +1,16 @@
 # Challenger Falabella
 Tecnology Spring boot, Thymeleaf, h2
 
-Architecture microservices
+Arquitectura microservicios con SpringBoot
 
-Controller : EndPoint for create, update and delete product 
-Entity :  Structure of Product
-Repository :  For encapsulating storage DB h2
+Controller : EndPoint for crear, actualizar y eliminar products 
+
+Entity :  Estructura de Product
+
+Repository :  Para el encapsulamiento de data y Base datos DB h2
 
 ### Instalación 🔧
 
-git remote add origin https://github.com/lvaldes/falabella.git y
+git remote add origin https://github.com/lvaldes/falabella.git
+
 Tener instalado jdk 15
